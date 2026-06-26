@@ -387,7 +387,7 @@ DELETE FROM todos;
    ```
 5. IDが1のTODOを削除:
    ```sql
-   DELETE FROM todos WHERE id = 1;
+   
    ```
 6. 削除されたか確認して、`.quit` で終了
 
